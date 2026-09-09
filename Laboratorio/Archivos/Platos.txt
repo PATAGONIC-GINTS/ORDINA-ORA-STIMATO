@@ -1,0 +1,41 @@
+0,pescado grillado con vegetales,11800.000000,10
+1,milanesa con papas fritas,9500.000000,21
+2,ravioles con salsa bolognesa,10200.000000,17
+3,ensalada cesar,8700.000000,13
+4,pizza napolitana (individual),8900.000000,19
+5,lomo a la mostaza,13800.000000,10
+6,hamburguesa completa,8800.000000,30
+7,empanadas (docena),7200.000000,12
+8,sopa de calabaza,6400.000000,8
+9,tarta de jamon y queso,7700.000000,14
+10,pollo al horno con guarnicion,10800.000000,16
+11,nioquis con salsa 4 quesos,9900.000000,22
+12,sandwich de bondiola,8700.000000,18
+13,cazuela de mariscos,15500.000000,9
+14,tacos de carne,9400.000000,13
+15,ensalada mediterranea,8500.000000,17
+16,milanesa napolitana con pure,10200.000000,20
+17,pechuga grillada con ensalada mixta,9200.000000,15
+18,pasta rellena de ricota y nuez,10400.000000,12
+19,lasagna de carne,10800.000000,14
+20,filet de merluza con papas al horno,9700.000000,16
+21,churrasco con papas espaniolas,12500.000000,10
+22,wrap de pollo con vegetales,8800.000000,18
+23,omelette de jamon y queso,7500.000000,20
+24,fajitas de pollo,9300.000000,13
+25,arroz con mariscos,14500.000000,8
+26,risotto de hongos,12200.000000,11
+27,costillas a la barbacoa,13200.000000,9
+28,papas cheddar con panceta,7900.000000,25
+29,medallones de lenteja,7700.000000,17
+30,sushi variado (10 piezas),15500.000000,10
+31,matambre a la pizza,11800.000000,12
+32,tallarines con salsa pesto,9600.000000,14
+33,polenta con estofado,8500.000000,10
+34,lasagna vegetariana,9400.000000,11
+35,tarta de espinaca y ricota,8200.000000,13
+36,bife de chorizo con papas rusticas,13900.000000,9
+37,entrana con ensalada criolla,13200.000000,10
+38,burritos vegetarianos,8900.000000,16
+39,pescado grillado con vegetales,11800.000000,10
+40,tacos con carne,10000.000000,2
